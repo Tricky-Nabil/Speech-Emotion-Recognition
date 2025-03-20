@@ -1,0 +1,18 @@
+334.8s	1782	RESULTS ON TEST SET AFTER ENSEMBLING FOR CNN:
+334.8s	1783	WA: 64.24	UA: 62.21
+334.8s	1784	Confusion matrix:
+334.8s	1785	 ang  sad  hap  neu
+334.8s	1786	  42    2   14   20
+334.8s	1787	   1  100    6   25
+334.8s	1788	   7   22   68   62
+334.8s	1789	   5   20   27  169
+
+
+221.5s	1343	RESULTS ON TEST SET AFTER ENSEMBLING FOR VIT:
+221.5s	1344	WA: 62.54	UA: 63.40
+221.5s	1345	Confusion matrix:
+221.5s	1346	 ang  sad  hap  neu
+221.5s	1347	  52    1   13   12
+221.5s	1348	   1   87   18   26
+221.5s	1349	  10   17   96   36
+221.5s	1350	  10   20   57  134
